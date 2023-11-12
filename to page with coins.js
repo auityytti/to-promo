@@ -1,0 +1,1 @@
+document.querySelectorAll('[href="/chests2.php"]')[0].click();

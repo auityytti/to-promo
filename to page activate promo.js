@@ -1,0 +1,1 @@
+document.querySelector('[href="/pin.php"]').click();

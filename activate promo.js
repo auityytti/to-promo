@@ -1,0 +1,1 @@
+let res = 'SARGAS2023HB';document.querySelector('.pin_code_input').value=res;document.querySelector('[type="submit"]').click();
